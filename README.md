@@ -20,7 +20,8 @@ I am well on my way to becoming a programmer and Excel expert! In this assignmen
 
 - Make the appropriate adjustments to this VBA script to enable it to run on every worksheet (that is, every year) at once.
 
-***Note***.
+***Note***
+
 Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
 #### Other Considerations
