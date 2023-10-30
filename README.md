@@ -2,7 +2,7 @@
 Using VBA scripting to analyze generated stock market data.
 
 ## Background
-I am well on my way to becoming a programmer and Excel expert! In this assignment, I will use VBA scripting to analyze generated stock market data.
+I am well on my way to becoming a programmer and Excel expert! In this challenge, I will use VBA scripting to analyze generated stock market data.
 
 ### Instructions
 
