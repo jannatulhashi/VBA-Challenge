@@ -1,4 +1,4 @@
-# VBA-Challenge
+# Stock Market Data Analysis
 Using VBA scripting to analyze generated stock market data.
 
 ## Background
