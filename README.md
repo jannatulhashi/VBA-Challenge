@@ -1,5 +1,4 @@
 # Stock Market Data Analysis
-Develop a VBA script to automate and enhance the analysis of yearly stock market data, focusing on key metrics like yearly change, percentage change, and total volume, for improved financial data analysis efficiency.
 
 ## Background
 I am well on my way to becoming a programmer and Excel expert! In this challenge, I will use VBA scripting to analyze generated stock market data.
