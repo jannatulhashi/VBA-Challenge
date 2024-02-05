@@ -21,6 +21,25 @@ The creation of the VBA script aims to provide a comprehensive tool for automati
   
 ![Moderate Solution](Images/moderate_solution.jpg)
 
+The above financial data in the image shows a spreadsheet with stock information:
+
+**Ticker:** This is a unique symbol for a stock. Here, all entries seem to be for the same stock (AAB).
+**Date:** It indicates the date for each stock data entry, in the format yyyymmdd.
+**Open:** The price of the stock at the beginning of the trading day.
+**High:** The highest price of the stock during the trading day.
+**Low:** The lowest price of the stock during the trading day.
+**Close:** The price of the stock at the end of the trading day.
+**Volume:** This shows how many shares of the stock were traded during the day.
+
+On the right side of the image, there's a summary:
+**Yearly Change:** The difference between the opening price at the beginning of the year and the closing price on the date provided. It's negative if the price falls and positive if it rises.
+**Percent Change:** This is the Yearly Change expressed as a percentage.
+**Total Stock Volume:** The sum of all shares traded for this stock.
+
+The summary section also highlights the stock with the highest percent increase, the highest percent decrease, and the greatest total volume of shares traded.
+
+In simple terms, this data tells you how much the stock's price fluctuated, and how much of it was traded, on each given day. It also summarizes the stock's overall performance and trading activity.
+
 - Enhance the script to identify the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The output should resemble the following image:
 
 ![Hard Solution](Images/hard_solution.jpg)
