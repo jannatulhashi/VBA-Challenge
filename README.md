@@ -23,7 +23,7 @@ The creation of the VBA script aims to provide a comprehensive tool for automati
 
 The above financial data in the image shows a spreadsheet with stock information:
 
-- **Ticker:** This is a unique symbol for a stock. Here, all entries seem to be for the same stock (AAB).
+- **Ticker:** A ticker is a unique series of letters assigned to a specific company's stock for identification on stock exchanges.
 
 - **Date:** It indicates the date for each stock data entry, in the format yyyymmdd.
 
