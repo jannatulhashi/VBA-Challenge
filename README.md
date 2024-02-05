@@ -33,7 +33,7 @@ The creation of the VBA script aims to provide a comprehensive tool for automati
 - **Ticker AUE:** Achieved the greatest total volume, suggesting high interest, possibly due to positive news or speculation, and warrants further investigation by investors.
 
 ### Recommendation
-Given the inherent risks of the stock market, it's essential to consider overall market conditions, personal investment goals, and risk tolerance. Thus, consulting with a financial advisor before making any buy or sell decisions is highly recommended.
+Considering the inherent risks of the stock market, it's crucial to take into account overall market conditions, personal investment goals, and risk tolerance. Therefore, consulting with a financial advisor before making any buy or sell decisions is strongly recommended.
 
 **Note:**
 Ensure to use conditional formatting that highlights positive changes in green and negative changes in red.
